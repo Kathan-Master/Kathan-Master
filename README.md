@@ -6,6 +6,8 @@
 - 📫 How to reach me?
 <li>
   <a href="https://www.linkedin.com/in/kathan-master">LinkedIn</a>
+</li>
+<li>
   <a href="https://instagram.com/_master_kathan_">Instagram</a>
 </li>
 - 😄 Pronouns: _**KATHAN**_
